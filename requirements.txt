@@ -1,0 +1,5 @@
+1. psycopg2
+2. dj-database-url
+3. gunicorn
+
+gunicorn uplifters_backend.wsgi:application
