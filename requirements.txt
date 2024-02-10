@@ -1,4 +1,6 @@
-psycopg2
 dj-database-url
-gunicorn
+Django
 djangorestframework
+psycopg2
+uvicorn
+gunicorn
